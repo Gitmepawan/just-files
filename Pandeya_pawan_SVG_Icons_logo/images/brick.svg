@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="brick" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 201.6 201.6" style="enable-background:new 0 0 201.6 201.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF6600;}
+	.st1{fill:#1D2A38;}
+</style>
+<rect x="112" y="117.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -61.3268 124.1838)" class="st0" width="14.5" height="37.6"/>
+<rect x="117.3" y="75.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -18.3978 120.3873)" class="st0" width="37.6" height="14.5"/>
+<rect x="63.6" y="128.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -72.1162 98.1334)" class="st0" width="37.6" height="14.5"/>
+<rect x="100.4" y="58.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -11.406 103.5073)" class="st0" width="37.6" height="14.5"/>
+<rect x="46.7" y="112" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -65.1247 81.2551)" class="st0" width="37.6" height="14.5"/>
+<rect x="58.3" y="63.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -39.0759 70.4653)" class="st0" width="14.5" height="37.6"/>
+<rect x="75.1" y="46.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -22.1962 77.4567)" class="st0" width="14.5" height="37.6"/>
+<rect x="128.9" y="100.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -44.4469 131.1755)" class="st0" width="14.5" height="37.6"/>
+<polygon id="down" class="st1" points="137.7,164.8 127.4,154.5 100.8,181.1 74.2,154.5 64,164.8 100.8,201.6 "/>
+<polygon id="side_x5F_left" class="st1" points="47.1,74.2 36.8,64 0,100.8 36.8,137.7 47.1,127.4 20.5,100.8 "/>
+<polygon id="side_x5F_right" class="st1" points="164.8,64 154.5,74.2 181.1,100.8 154.5,127.4 164.8,137.7 201.6,100.8 "/>
+<polygon id="up_x5F_up" class="st1" points="127.4,47.1 137.7,36.8 100.8,0 64,36.8 74.2,47.1 100.8,20.5 "/>
+</svg>
